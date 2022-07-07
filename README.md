@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daraji1324
+- 👋 Hi, I’m Dollar_Dy
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me? ➡ Discord server: https://discord.gg/6S38tgq7Ru
